@@ -16,10 +16,11 @@ input[type="submit"]{
     background: rgb(124, 172, 128);
     color: #3b3b3b;
     margin: 4px;
-    opacity: 1;
+    opacity: .8;
 }
 
 input[type="submit"]:hover{
-    opacity: .8;
+    opacity: 1;
+    color:#f0ffff;
 }
 
