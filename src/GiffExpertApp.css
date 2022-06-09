@@ -7,3 +7,19 @@
     -ms-border-radius: 20px;
     -o-border-radius: 20px;
 }
+
+h1{
+    color: #eeeeeeb9;
+}
+
+h2{
+    color: #cdcdcdb9;
+}
+
+h3{
+    color: #5c5c5cb1;
+}
+
+p{
+    color: #23232386;
+}
