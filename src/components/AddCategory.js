@@ -19,7 +19,7 @@ export const AddCategory = ({setCategories}) => {
         }
 
     }
-  return (
+    return (
     <div>
         <h2>Add Category</h2>
         <form onSubmit={handleSubmit}>
@@ -33,7 +33,7 @@ export const AddCategory = ({setCategories}) => {
         </form>
         
     </div>
-  )
+    )
 }
 
 AddCategory.propTypes = {
